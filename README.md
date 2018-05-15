@@ -12,6 +12,8 @@ Status: *released to Maven Central*
 * Supports low latency delivery (using long-polling which blocks a thread)
 * Supports higher latency delivery via scheduled polling (reduced thread blocking)
 
+See also: [rxjava2-aws](https://github.com/davidmoten/rxjava2-aws)
+
 ## Getting started
 Add the rxjava-aws dependency to your pom.xml:
 
