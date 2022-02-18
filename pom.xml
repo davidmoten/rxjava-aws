@@ -27,7 +27,7 @@
         <exec.version>1.4.0</exec.version>
         <slf4j.version>1.7.12</slf4j.version>
 
-        <aws.sdk.version>1.11.221</aws.sdk.version>
+        <aws.sdk.version>1.12.161</aws.sdk.version>
         <cobertura.version>2.7</cobertura.version>
         <checkstyle.version>2.16</checkstyle.version>
         <findbugs.version>2.5.4</findbugs.version>
